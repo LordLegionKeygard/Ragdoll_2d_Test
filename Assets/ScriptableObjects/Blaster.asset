@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5eef06ec8a924b4fb7ecdb08d8c7f5f, type: 3}
+  m_Name: Blaster
+  m_EditorClassIdentifier: 
+  DropItem: {fileID: 7044928291345307153, guid: 73abc4e759411f848aa06b10e432bdf3, type: 3}
+  EquipItem: {fileID: 6619047098121678266, guid: fa6b01c0e33e61645962ac33ec91e092, type: 3}
